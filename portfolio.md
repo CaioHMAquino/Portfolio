@@ -1,4 +1,4 @@
-# Olá, eu sou o Caio
+# Olá, eu sou o Caio Henrique Matos de Aquino
 Eu sou um cursante do ensino técnico em desenvolvimento de sistemas do SENAI.
 
 ## Visão Geral
