@@ -2,7 +2,7 @@
 Eu sou um cursante do ensino técnico em desenvolvimento de sistemas do SENAI.
 
 ## Visão Geral
-Tenho conhecimentos básicos na área de programação em python, e no uso da linguagem de marcação html. Tenho conhecimento intermediário de na língua inglesa, o que me possibilita uma adaptabilidade a programas que utilizam esta linguagem como principal. Sou autodidata, o que faz com que me permite aprender coisas muitas vezes tendo apenas o básico do caminho a ser seguido, visando sempre uma solução eficiente.
+Tenho conhecimentos básicos na área de programação em python e javascript, e no uso da linguagem de marcação html. Tenho conhecimento intermediário de na língua inglesa, o que me possibilita uma adaptabilidade a programas que utilizam esta linguagem como principal. Sou autodidata, o que faz com que me permite aprender coisas muitas vezes tendo apenas o básico do caminho a ser seguido, visando sempre uma solução eficiente.
 
 ## Certificações e Provas Externas:
 #### Certificações
