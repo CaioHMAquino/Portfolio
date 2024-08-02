@@ -9,6 +9,8 @@ Tenho conhecimentos básicos na área de programação em python, e no uso da li
 * Certificação em inglês pela Microlins;
 * Certificação de Python Básico pela Cisco;
 * Certificação de Marketing para Youtube pela Microlins;
+* Certificação de conclusão de curso sobre LGPD (Lei Geral de Proteção de Dados) pelo SENAI;
+* Medalhista e Certificado pelo PROERD.
 #### Provas Externas
 * Certicifação de reconhecimento pela Olimpíada Brasileira de Robótica de 2022;
 * Participações na segunda fase da Olimpíada Brasileira de Matemática das Escolas Públicas;
