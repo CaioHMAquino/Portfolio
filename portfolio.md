@@ -22,5 +22,5 @@ Atuação temporária em um site pequeno de dropshiping (Pura Cozinha), atuando 
 * Boa Retórica;
 * Adaptação;
 * Foco;
-* Intelig6encia Emocional;
+* Inteligência Emocional;
 * Comunicação Eficaz.
